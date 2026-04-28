@@ -84,8 +84,6 @@ public class Exercises {
         return null;
     }
 
-    /* ------ OPTIONAL CHALLENGE PROBLEMS ------ */
-
     /**
      * Returns whether two lists are of equal length AND each value in bigList is double
      * that of the corresponding value in smallList. Returns false otherwise.
